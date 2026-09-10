@@ -1,0 +1,7 @@
+{
+  "name": "DevGrid Services",
+  "description": "DevGrid Services — Your Digital Services Hub. Reliable & affordable digital solutions for creators, communities, developers, and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
